@@ -7,7 +7,7 @@ export default function Two(){
       
       <div style={{width:"1100px",height:"300px",display:"flex",marginTop:"30px",marginLeft:"60px",justifyContent:"space-around" ,paddingTop:"100px",fontFamily:"serif"}}>
       <div style={{color:"white",marginLeft:"30px",borderBottom:"2px solid white",borderLeft:"2px solid white",padding:"10px",borderRadius:"5px"}}>
-      <h2 style={{fontSize:"40px"}}>Languages I'm Using Now</h2>
+      <h2 style={{fontSize:"40px"}}>Languages I am Using Now</h2>
         <ul style={{color:"green",fontSize:"20px"}}>
           <li>HTML</li>
           <li>CSS</li>
@@ -16,7 +16,7 @@ export default function Two(){
     </div>
 
     <div style={{color:"white",marginLeft:"30px",borderTop:"2px solid white",borderRight:"2px solid white",padding:"10px",borderRadius:"5px"}}>
-      <h2 style={{fontSize:"40px"}}>Frameworks I'm Learning</h2>
+      <h2 style={{fontSize:"40px"}}>Frameworks I am Learning</h2>
         <ul style={{color:"green",fontSize:"20px"}}>
           <li>Next.js</li>
           <li>Tailwind CSS</li>

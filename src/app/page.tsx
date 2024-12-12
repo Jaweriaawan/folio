@@ -9,7 +9,7 @@ export default function One(){
 
   <div style={{display:"flex", justifyContent:"space-between"}}>
     <div style={{marginLeft:"65px",fontFamily:"sans-serif"}}>
-      <h1 style={{fontSize:"70px", marginTop:"220px",color:"white"}}>Hyy <br /> I'm jaweria</h1>
+      <h1 style={{fontSize:"70px", marginTop:"220px",color:"white"}}>Hyy <br /> I am jaweria</h1>
     </div>
 
     <div style={{width:"300px", height:"500px",border:"3px solid white",marginTop:"140px", marginRight:"150px",marginBottom:"70px",overflow:"hidden",borderRadius:"30px"}}>
