@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Image from 'next/image';
 import profile from "@/app/pics/profile.jpg"
 import Two from "./folio2/page";
