@@ -1,7 +1,6 @@
 {
-  "extends": ["next/core-web-vitals"],
+  "extends": ["next", "next/core-web-vitals"],
   "rules": {
-    "react/no-unescaped-entities": "off", // Disable warning for unescaped characters
-    "jsx-a11y/anchor-is-valid": "off" // Disable anchor link validation
+    "@typescript-eslint/no-unused-vars": "off"
   }
 }
